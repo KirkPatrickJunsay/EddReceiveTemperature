@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EddReceiveTemperature", "EddReceiveTemperature\EddReceiveTemperature.csproj", "{9331135B-5FDB-45A6-AE25-9F5A22C2CFD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9331135B-5FDB-45A6-AE25-9F5A22C2CFD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9331135B-5FDB-45A6-AE25-9F5A22C2CFD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9331135B-5FDB-45A6-AE25-9F5A22C2CFD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9331135B-5FDB-45A6-AE25-9F5A22C2CFD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FDBC9EE-328A-4CE1-896F-97F8330F167F}
+	EndGlobalSection
+EndGlobal
